@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.dennis.takeawaymenu.Comments"
+    android:orientation="vertical"
+    android:gravity="center|bottom"
+
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         android:layout_margin="5dp">
+
+        <ListView
+            android:id="@+id/comment_TextView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:background="#e5e5e5">
+
+        </ListView>
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/Comment_EditText"
+        android:layout_width="370dp"
+        android:layout_height="50dp"
+        android:background="#cccccc"
+        android:layout_gravity="center"
+        android:hint=" Comment" />
+
+    <Button
+        android:id="@+id/Input_Button"
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_margin="15dp"
+        android:background="#999999"
+        android:text="Send" />
+
+    <TextView
+        android:id="@+id/status_TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="status:"
+        android:textSize="13dp"/>
+</LinearLayout>

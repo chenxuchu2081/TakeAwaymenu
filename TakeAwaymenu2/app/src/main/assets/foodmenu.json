@@ -1,0 +1,31 @@
+{"foodmenu":
+  [
+	{
+	 "foodname":"cream soup", "foodprice":"$102"
+	},
+	{
+	 "foodname":"Salads", "foodprice":"$120"
+	},
+	{
+	 "foodname":"PepperOni pizza", "foodprice":"$110"
+	},	                          
+	{
+	 "foodname":"Carbonara", "foodprice":"$130"
+	},
+	{
+	 "foodname":"Angus Burdock", "foodprice":"$110"
+	},
+	{
+	 "foodname":"Tuna Fish Sandwiches", "foodprice":"$110"
+	},
+	{
+	 "foodname":"Seafood Paella", "foodprice":"$110"
+	},
+	{
+	 "foodname":"hainan Chicken Rice", "foodprice":"$100"
+	},
+	{
+	 "foodname":"Roasted Chicken", "foodprice":"$100"
+	}
+  ]
+}
