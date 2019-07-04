@@ -13,4 +13,4 @@ it is android application in third semester
 ### GPS 
 ![Gps](/image/gps.jpeg "gps page")
 ### Comment System Page
-![comment system](/image/Comment System.jpeg "comment system page")
+![comment system](/image/Comment System.png "comment system page")
