@@ -1,4 +1,4 @@
 # TakeAwaymenu
 it is android application in third semester
 
-![Alt text](/TakeAwaymenu/image/about.jpeg "Optional title")
+![Alt text](/image/about.jpeg "Optional title")
