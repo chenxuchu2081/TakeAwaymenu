@@ -1,7 +1,7 @@
 # TakeAwaymenu
 it is android application in third semester
 ### Home Page
-![Home](/image/home.jpeg "Home page")
+<img scr = "/image/about.jpeg" height = 500, wight = 250 />
 ### About page
 ![About](/image/about.jpeg "about page")
 ![About](/image/about2.jpeg "about page")
