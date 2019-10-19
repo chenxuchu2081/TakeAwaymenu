@@ -1,16 +1,37 @@
-# TakeAwaymenu
-it is android application in third semester
-### Home Page
-<img scr = "/image/about.jpeg" height = 500, wight = 250 />
-### About page
-![About](/image/about.jpeg "about page")
-![About](/image/about2.jpeg "about page")
-![About](/image/about3.jpeg "about page")
-![About](/image/about4.jpeg "about page")
-### Menu page
-![Menu](/image/menu.jpeg "menu page")
-![Menu](/image/menu2.jpeg "menu page")
-### GPS 
-![Gps](/image/gps.jpeg "gps page")
-### Comment System Page
-![comment system](/image/CommentSystem.png "comment system page")
+<!DOCTYPE html>
+<html>
+<body>
+<h2>TakeAwaymenu</h2>
+<p>it is android application in third semester </p><hr />
+
+<table style="width:100%">
+  <tr>
+     <th>Home Page</th>
+    <td><img style="float: right;" src="/image/home.jpeg" width="125" height="300" ></td>
+  </tr>
+  <tr>
+    <th>About page</th> 
+      <td><img style="float: right;" src="/image/about.jpeg" width="125" height="300"  > </td>
+     <td><img style="float: right;" src="/image/about2.jpeg" width="125" height="300"  > </td>
+     <td><img style="float: right;" src="/image/about3.jpeg" width="125" height="300"  > </td>
+     <td><img style="float: right;" src="/image/about4.jpeg" width="125" height="300"  > </td>
+  </tr>
+  <tr>
+    <th>Menu page</th>
+    <td><img style="float: right;" src="/image/menu.jpeg" width="125" height="300"  > </td>
+     <td><img style="float: right;" src="/image/menu2.jpeg" width="125" height="300"  > </td>
+  </tr>
+  <tr>
+     <th>GPS </th>
+     <td><img style="float: right;" src="/image/gps.jpeg" width="125" height="300"  > </td>
+  </tr>
+   <tr>
+     <th>Comment System page </th>
+     <td><img style="float: right;" src="/image/CommentSystem.png" width="125" height="300"  > </td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
