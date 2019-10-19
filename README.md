@@ -4,7 +4,8 @@
 <h2>TakeAwaymenu</h2>
 <p>it is android application in third semester </p><hr />
 
-<table style="width:100%">
+<table style="width:100%";font-family: arial, sans-serif;
+  border-collapse: collapse>
   <tr>
      <th>Home Page</th>
     <td><img style="float: right;" src="/image/home.jpeg" width="125" height="300" ></td>
